@@ -85,7 +85,7 @@ This program was written by Lohan Jansen.
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License. You can find the full text of the license in the LICENSE file.
 
 ## Contact
 
